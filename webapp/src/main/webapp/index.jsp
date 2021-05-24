@@ -2,3 +2,4 @@
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
 <h2> Making project from DevOps </h2>
+<h3>Deployment from docker onto tomcat</h3>
